@@ -4,19 +4,19 @@
     "url": "https://devdroid.petronas.com/#/home",
     "icon": "https://icons.duckduckgo.com/ip3/devdroid.petronas.com.ico",
     "slug": "staging",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 1162,
-    "timeDay": 1290,
-    "timeWeek": 1148,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "status": "degraded",
+    "uptime": "97.83%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.83%",
+    "time": 1348,
+    "timeDay": 2236,
+    "timeWeek": 1541,
+    "timeMonth": 1348,
+    "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-07-09": 62
+      "2024-07-09": 422
     }
   },
   {
