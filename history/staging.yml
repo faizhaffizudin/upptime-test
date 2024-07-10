@@ -1,7 +1,7 @@
 url: https://devdroid.petronas.com/#/home
-status: up
-code: 200
-responseTime: 978
-lastUpdated: 2024-07-10T01:56:47.486Z
+status: down
+code: 502
+responseTime: 940
+lastUpdated: 2024-07-10T12:16:23.506Z
 startTime: 2024-06-26T05:13:17.695Z
 generator: Upptime <https://github.com/upptime/upptime>
